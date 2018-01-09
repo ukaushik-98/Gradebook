@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(111): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(114): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(117): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(120): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(123): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(126): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(129): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(132): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(135): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(138): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(141): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\udit\udit\udit\placement exams\ics 45c\projects\gradebook\gradebook\main.cpp(147): warning C4715: 'letter_grade': not all control paths return a value
+  Gradebook.vcxproj -> C:\Users\Udit\UDIT\UDIT\Placement Exams\ICS 45C\Projects\Gradebook\Debug\Gradebook.exe
